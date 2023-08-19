@@ -1,1 +1,1 @@
-# CodeClause_Task_1-Churn_Prediction_in_Telecom_Industry_using_Logistic_Regression-.ipynb
+Churn_Prediction_in_Telecom_Industry_using_Logistic_Regression-.ipynb
